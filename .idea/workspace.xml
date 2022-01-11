@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d99ba1d6-baa0-42b8-843f-3214de2c5df8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="xiaojuzi" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/service/CmsPageService.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Java\apache-maven-3.6.1\repository" />
+        <option name="mavenHome" value="D:\Java\apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\Java\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="2" />
+  </component>
+  <component name="ProjectId" id="1g2Ni2CPxcbV7jJFTWLnt19GeEA" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.xuecheng.test" />
+      <recent name="com.xuecheng.manage_cms" />
+      <recent name="com.xuecheng.test.freemarker" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xuecheng.order.dao" />
+      <recent name="com.xuecheng.ucenter.config" />
+      <recent name="com.xuecheng.manage_cms.config" />
+      <recent name="com.xuecheng.govern.gateway.filter" />
+      <recent name="com.xuecheng.ucenter.dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xcEdu\xcEduService01\xc-service-learning\src\main\java\com\xuecheng\learning\config" />
+      <recent name="D:\xcEdu\xcEduService01\xc-service-manage-cms\src\main\resources" />
+      <recent name="D:\xcEdu\xcEduService01\xc-service-ucenter-auth\src\main\resources" />
+      <recent name="D:\xcEdu\xcEduService01\xc-service-manage-course\src\main\resources" />
+      <recent name="D:\xcEdu\xcEduService01\xc-service-manage-course\src\main\java\com\xuecheng\manage_course\config" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ManageCourseApplication">
+    <configuration name="ExcelUtil.excl" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xc-service-manage-cms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.manage_cms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuecheng.manage_cms" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.manage_cms.ExcelUtil" />
+      <option name="METHOD_NAME" value="excl" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelUtil.exportExcel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xc-service-manage-cms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.manage_cms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuecheng.manage_cms" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.manage_cms.ExcelUtil" />
+      <option name="METHOD_NAME" value="exportExcel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestTemplateTest.testRestTemplate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xc-service-manage-cms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.manage_cms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuecheng.manage_cms" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.manage_cms.RestTemplateTest" />
+      <option name="METHOD_NAME" value="testRestTemplate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testjwt.testCreateJwt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xc-service-ucenter-auth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuecheng.auth" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.auth.Testjwt" />
+      <option name="METHOD_NAME" value="testCreateJwt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testjwt.testVertify" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xc-service-ucenter-auth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuecheng.auth" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.auth.Testjwt" />
+      <option name="METHOD_NAME" value="testVertify" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileSystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-base-filesystem" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.filesystem.FileSystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FreemarkerTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-freemarker" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.test.freemarker.FreemarkerTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-govern-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.govern.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GovernCenterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-govern-center" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.govern.center.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.govern.center.GovernCenterApplication" />
+      <option name="VM_PARAMETERS" value="-DPORT=50101 -DEUREKA_SERVER=http://eureka02:50102/eureka/ -DEUREKA_DOMAIN=eureka01" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearningApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-learning" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.learning.LearningApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageCmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-manage-cms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage_cms.ManageCmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageCmsClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc‐service‐manage‐cms‐client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage_cms_client.ManageCmsClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageCourseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-manage-course" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage_course.ManageCourseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageMediaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-manage-media" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage_media.ManageMediaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageMediaProcessorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-manage-media-processor" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage_media_process.ManageMediaProcessorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-manage-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.order.ManageOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.search.SearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFastDFSApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-fastDFS" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.test.fastdfs.TestFastDFSApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRabbitmqApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-rabbitmq-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.test.rabbitmq.TestRabbitmqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRabbitmqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-rabbitmq-producer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.test.rabbitmq.TestRabbitmqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UcenterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-ucenter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.ucenter.UcenterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UcenterAuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-ucenter-auth" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.auth.UcenterAuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eureka02" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="xc-edu">
+      <module name="xc-govern-center" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.govern.center.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.govern.center.GovernCenterApplication" />
+      <option name="VM_PARAMETERS" value="-DPORT=50102 -DEUREKA_SERVER=http://eureka01:50101/eureka/ -DEUREKA_DOMAIN=eureka02" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Testjwt.testCreateJwt" />
+      <item itemvalue="JUnit.Testjwt.testVertify" />
+      <item itemvalue="JUnit.ExcelUtil.exportExcel" />
+      <item itemvalue="JUnit.ExcelUtil.excl" />
+      <item itemvalue="JUnit.RestTemplateTest.testRestTemplate" />
+      <item itemvalue="Spring Boot.eureka02" />
+      <item itemvalue="Spring Boot.FileSystemApplication" />
+      <item itemvalue="Spring Boot.FreemarkerTestApplication" />
+      <item itemvalue="Spring Boot.GatewayApplication" />
+      <item itemvalue="Spring Boot.GovernCenterApplication" />
+      <item itemvalue="Spring Boot.LearningApplication" />
+      <item itemvalue="Spring Boot.ManageCmsApplication" />
+      <item itemvalue="Spring Boot.ManageCmsClientApplication" />
+      <item itemvalue="Spring Boot.ManageCourseApplication" />
+      <item itemvalue="Spring Boot.ManageMediaApplication" />
+      <item itemvalue="Spring Boot.ManageMediaProcessorApplication" />
+      <item itemvalue="Spring Boot.ManageOrderApplication" />
+      <item itemvalue="Spring Boot.SearchApplication" />
+      <item itemvalue="Spring Boot.TestFastDFSApplication" />
+      <item itemvalue="Spring Boot.TestRabbitmqApplication" />
+      <item itemvalue="Spring Boot.UcenterApplication" />
+      <item itemvalue="Spring Boot.UcenterAuthApplication" />
+      <item itemvalue="Spring Boot.TestRabbitmqApplication (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RestTemplateTest.testRestTemplate" />
+        <item itemvalue="JUnit.ExcelUtil.excl" />
+        <item itemvalue="JUnit.ExcelUtil.exportExcel" />
+        <item itemvalue="JUnit.Testjwt.testVertify" />
+        <item itemvalue="JUnit.Testjwt.testCreateJwt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d99ba1d6-baa0-42b8-843f-3214de2c5df8" name="Default Changelist" comment="" />
+      <created>1597308851154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597308851154</updated>
+      <workItem from="1597308852365" duration="1417000" />
+      <workItem from="1597477702132" duration="3113000" />
+      <workItem from="1597830927580" duration="4999000" />
+      <workItem from="1597977608261" duration="6226000" />
+      <workItem from="1598434416601" duration="1407000" />
+      <workItem from="1598845152363" duration="14255000" />
+      <workItem from="1599005344705" duration="10726000" />
+      <workItem from="1599090508151" duration="3873000" />
+      <workItem from="1599220969277" duration="613000" />
+      <workItem from="1599274685078" duration="2221000" />
+      <workItem from="1599399612812" duration="1065000" />
+      <workItem from="1599437373956" duration="1672000" />
+      <workItem from="1599449541491" duration="76000" />
+      <workItem from="1599449620457" duration="1036000" />
+      <workItem from="1599703899714" duration="4159000" />
+      <workItem from="1599991127068" duration="4058000" />
+      <workItem from="1600046603768" duration="8210000" />
+      <workItem from="1600129519284" duration="1961000" />
+      <workItem from="1600131498886" duration="1726000" />
+      <workItem from="1600328673520" duration="9000" />
+      <workItem from="1602386326409" duration="1189000" />
+      <workItem from="1602408404638" duration="26000" />
+      <workItem from="1602409060835" duration="102000" />
+      <workItem from="1602414050976" duration="222000" />
+      <workItem from="1602463713799" duration="7000" />
+      <workItem from="1603008231441" duration="1086000" />
+      <workItem from="1603093467854" duration="6609000" />
+      <workItem from="1603100682812" duration="8030000" />
+      <workItem from="1603154300658" duration="18022000" />
+      <workItem from="1603253502433" duration="8893000" />
+      <workItem from="1603285324630" duration="2481000" />
+      <workItem from="1603288013880" duration="1926000" />
+      <workItem from="1603326747997" duration="4872000" />
+      <workItem from="1603414507429" duration="7263000" />
+      <workItem from="1603422031554" duration="7206000" />
+      <workItem from="1603433270928" duration="602000" />
+      <workItem from="1603519952096" duration="10198000" />
+      <workItem from="1603544217010" duration="1700000" />
+      <workItem from="1603546439745" duration="5064000" />
+      <workItem from="1603587649886" duration="894000" />
+      <workItem from="1603588906760" duration="3552000" />
+      <workItem from="1603592491757" duration="15324000" />
+      <workItem from="1603617794949" duration="13787000" />
+      <workItem from="1603670743380" duration="2478000" />
+      <workItem from="1603858402913" duration="51000" />
+      <workItem from="1604318226188" duration="89000" />
+      <workItem from="1604318593773" duration="605000" />
+      <workItem from="1604319504540" duration="5000" />
+      <workItem from="1604393042495" duration="3000" />
+      <workItem from="1604454547605" duration="2017000" />
+      <workItem from="1604537908532" duration="1593000" />
+      <workItem from="1604642903892" duration="3000" />
+      <workItem from="1604717208804" duration="599000" />
+      <workItem from="1604881536303" duration="5456000" />
+      <workItem from="1604976789450" duration="1151000" />
+      <workItem from="1605061447293" duration="345000" />
+      <workItem from="1605073799394" duration="7564000" />
+      <workItem from="1605177602357" duration="3000" />
+      <workItem from="1605423464327" duration="145000" />
+      <workItem from="1605423649906" duration="2766000" />
+      <workItem from="1605512247402" duration="2698000" />
+      <workItem from="1605661615846" duration="3808000" />
+      <workItem from="1605836940622" duration="5504000" />
+      <workItem from="1605870027497" duration="865000" />
+      <workItem from="1605871444729" duration="1010000" />
+      <workItem from="1605937741644" duration="300000" />
+      <workItem from="1605941170769" duration="20000" />
+      <workItem from="1605941247605" duration="93000" />
+      <workItem from="1605941344011" duration="15000" />
+      <workItem from="1606049819324" duration="632000" />
+      <workItem from="1606050459549" duration="3314000" />
+      <workItem from="1606469885036" duration="1891000" />
+      <workItem from="1606474386996" duration="131000" />
+      <workItem from="1606911746486" duration="15112000" />
+      <workItem from="1606979912574" duration="9293000" />
+      <workItem from="1606989864207" duration="10774000" />
+      <workItem from="1607046571399" duration="3570000" />
+      <workItem from="1607058220172" duration="825000" />
+      <workItem from="1607060404994" duration="3057000" />
+      <workItem from="1607147047777" duration="2171000" />
+      <workItem from="1607222561351" duration="8482000" />
+      <workItem from="1607301674442" duration="13204000" />
+      <workItem from="1607388852491" duration="17821000" />
+      <workItem from="1607437587863" duration="369000" />
+      <workItem from="1607565818978" duration="1441000" />
+      <workItem from="1607567286985" duration="5184000" />
+      <workItem from="1607575168127" duration="3622000" />
+      <workItem from="1607578823324" duration="9017000" />
+      <workItem from="1607599905772" duration="5852000" />
+      <workItem from="1607650760349" duration="2601000" />
+      <workItem from="1607662374600" duration="3596000" />
+      <workItem from="1607673770813" duration="1655000" />
+      <workItem from="1607736666369" duration="4000" />
+      <workItem from="1607759702802" duration="1009000" />
+      <workItem from="1607904673921" duration="630000" />
+      <workItem from="1607909752396" duration="8517000" />
+      <workItem from="1607922850404" duration="1000" />
+      <workItem from="1607923739534" duration="2287000" />
+      <workItem from="1607930459091" duration="4000" />
+      <workItem from="1607949833418" duration="4542000" />
+      <workItem from="1607991704284" duration="23577000" />
+      <workItem from="1608043355496" duration="86000" />
+      <workItem from="1608043473615" duration="999000" />
+      <workItem from="1608079299371" duration="601000" />
+      <workItem from="1608128632391" duration="641000" />
+      <workItem from="1608165977854" duration="788000" />
+      <workItem from="1608171309366" duration="33000" />
+      <workItem from="1608208267865" duration="27000" />
+      <workItem from="1608269755967" duration="4295000" />
+      <workItem from="1608435630355" duration="3658000" />
+      <workItem from="1608512448860" duration="13907000" />
+      <workItem from="1608550981484" duration="85000" />
+      <workItem from="1608551722335" duration="11000" />
+      <workItem from="1608557959202" duration="2269000" />
+      <workItem from="1608604041359" duration="2105000" />
+      <workItem from="1608606222523" duration="2523000" />
+      <workItem from="1608717781622" duration="2030000" />
+      <workItem from="1608720706620" duration="155000" />
+      <workItem from="1609056609169" duration="613000" />
+      <workItem from="1609137538419" duration="1000" />
+      <workItem from="1609143273436" duration="786000" />
+      <workItem from="1609157690444" duration="2911000" />
+      <workItem from="1609513171573" duration="328000" />
+      <workItem from="1610095062845" duration="178000" />
+      <workItem from="1610600425376" duration="1011000" />
+      <workItem from="1611209029737" duration="16000" />
+      <workItem from="1611888575615" duration="33000" />
+      <workItem from="1611992355817" duration="2741000" />
+      <workItem from="1611995127320" duration="346000" />
+      <workItem from="1614731514759" duration="95000" />
+      <workItem from="1616593236576" duration="51000" />
+      <workItem from="1616593304572" duration="196000" />
+      <workItem from="1616593526517" duration="200000" />
+      <workItem from="1616593748395" duration="442000" />
+      <workItem from="1616594430111" duration="405000" />
+      <workItem from="1616594861046" duration="135000" />
+      <workItem from="1616595018574" duration="80000" />
+      <workItem from="1616595267580" duration="37000" />
+      <workItem from="1616595374866" duration="76000" />
+      <workItem from="1616732757855" duration="131000" />
+      <workItem from="1617189812521" duration="9000" />
+      <workItem from="1618115572129" duration="1294000" />
+      <workItem from="1620474828644" duration="526000" />
+      <workItem from="1621491889708" duration="73000" />
+      <workItem from="1621578074784" duration="736000" />
+      <workItem from="1623073325814" duration="537000" />
+      <workItem from="1623487835552" duration="20000" />
+      <workItem from="1632305449787" duration="115000" />
+      <workItem from="1635389188295" duration="188000" />
+      <workItem from="1635389517441" duration="375000" />
+      <workItem from="1636266409576" duration="21000" />
+      <workItem from="1636267128344" duration="423000" />
+      <workItem from="1636274798564" duration="994000" />
+      <workItem from="1636276220182" duration="125000" />
+      <workItem from="1636276433508" duration="322000" />
+      <workItem from="1637150498779" duration="276000" />
+      <workItem from="1640831195893" duration="189000" />
+      <workItem from="1640832702304" duration="39000" />
+      <workItem from="1640925544823" duration="38000" />
+      <workItem from="1640928934595" duration="1551000" />
+      <workItem from="1640930564648" duration="52000" />
+      <workItem from="1640930738101" duration="7000" />
+      <workItem from="1641882417676" duration="1440000" />
+      <workItem from="1641885229146" duration="145000" />
+      <workItem from="1641885380334" duration="1511000" />
+      <workItem from="1641886921288" duration="697000" />
+    </task>
+    <task id="LOCAL-00001" summary="学成教育网测试代码提交">
+      <created>1641886168905</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1641886168905</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="学成教育网测试代码提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="学成教育网测试代码提交" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

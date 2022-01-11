@@ -1,0 +1,35 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="xc-service-manage-cms:war exploded">
+    <output-path>$PROJECT_DIR$/xc-service-manage-cms/target/xc-service-manage-cms-1.0-SNAPSHOT</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>xc-service-manage-cms</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="xc-service-manage-cms" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.xuecheng:xc‐service‐api:1.0‐SNAPSHOT" />
+          <element id="library" level="project" name="Maven: com.xuecheng:xc‐framework‐model:1.0‐SNAPSHOT" />
+          <element id="library" level="project" name="Maven: com.xuecheng:xc‐framework‐utils:1.0‐SNAPSHOT" />
+          <element id="library" level="project" name="Maven: com.xuecheng:xc‐framework‐common:1.0‐SNAPSHOT" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring‐boot‐starter‐web:unknown" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring‐boot‐starter‐freemarker:unknown" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring‐boot‐starter‐data‐mongodb:unknown" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring‐boot‐starter‐amqp:unknown" />
+          <element id="library" level="project" name="Maven: com.squareup.okhttp3:okhttp:unknown" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring‐boot‐starter‐test:unknown" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/xc-service-manage-cms/target/xc-service-manage-cms-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="xc-service-manage-cms/web/Web" />
+    </root>
+  </artifact>
+</component>
