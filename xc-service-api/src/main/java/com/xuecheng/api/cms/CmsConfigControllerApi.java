@@ -6,7 +6,7 @@ import io.swagger.annotations.ApiOperation;
 
 /**
  * @program: xcEduService01
- * @description:
+ * @description:cms
  * @author: xiaojuzi
  * @create: 2020-10-19 15:51
  **/
